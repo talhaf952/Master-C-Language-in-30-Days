@@ -3,6 +3,9 @@ Daily Tasks
 10 days later competition(Didn`t happen till 12 days)
 Participate in Competitive Programming(Code Fest) contest
 Registration fee between 100 to 300
+  * Team of 1 member=200
+  * Team of 2 members=300
+  * Team of 3 members=500
 Have to delay new tasks for some days because of practice on previous
 Practice tasks like HCF, LCM, competitions problems etc.
 
