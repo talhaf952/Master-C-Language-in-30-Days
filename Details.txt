@@ -6,7 +6,7 @@ Registration fee between 100 to 300
   * Team of 1 member=200
   * Team of 2 members=300
   * Team of 3 members=500
-Note: Winning price Should not be from registration.
+Note: Winning price should not be from registration prices.
 Have to delay new tasks for some days because of practice on previous
 Practice tasks like HCF, LCM, Stars etc.
 
