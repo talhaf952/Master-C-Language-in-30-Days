@@ -2,7 +2,7 @@ Daily Tasks
 1 rest after 5 days
 10 days later competition(Didn`t happen till 12 days)
 Participate in Competitive Programming(Code Fest) contest
-Registration fee between 100 to 300
+Registration fee:
   * Team of 1 member=200
   * Team of 2 members=300
   * Team of 3 members=500
