@@ -15,8 +15,8 @@ Practice tasks like HCF, LCM, Stars etc.
 Take a break from 3rd June to After Eid(24th June Probably).
 
 Stuck afte days 17, 18
-Plan to start projects 
 
+Projects:
 Project 1: Student Management System (SMS)
 project 2: Tic Tac Toe (TTT)
 Project 3: Voting Management System (VMS)
