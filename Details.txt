@@ -22,5 +22,5 @@ project 2: Tic Tac Toe (TTT)
 Project 3: Voting Management System (VMS)
 Project 4: 
 Project 5:
-Project 6: Reservation System
+Project 6: Flight Reservation System(FRS)
 Project 7: File Compression Tool(FCT)
