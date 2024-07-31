@@ -27,3 +27,4 @@ Project 7: File Compression Tool(FCT)
 
 2nd Competition:
 Techon 2.0 (11th August 2024)
+ * Team of 1 member=300/-
