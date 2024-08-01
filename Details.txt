@@ -3,7 +3,7 @@ Daily Tasks
 10 days later competition(Didn`t happen till 12 days)
 Participate in Competitive Programming(Code Fest) contest
 
-1st Programming Competition
+1st Programming Competitions:
 Registration Fee:
   * Team of 1 member=200/-
   * Team of 2 members=300/-
@@ -25,7 +25,7 @@ Project 5: Quiz Game(QG)
 Project 6: Flight Reservation System(FRS)
 Project 7: File Compression Tool(FCT)
 
-2nd Competition:
+2nd Programming Competitions:
 Techon 2.0 (11th August 2024)
 Registration Fee:
  * Team of 1 member=300/-
