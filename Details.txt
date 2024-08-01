@@ -3,6 +3,7 @@ Daily Tasks
 10 days later competition(Didn`t happen till 12 days)
 Participate in Competitive Programming(Code Fest) contest
 
+1st Programming Competition
 Registration Fee:
   * Team of 1 member=200/-
   * Team of 2 members=300/-
@@ -13,7 +14,6 @@ Have to delay new tasks for some days because of practice on previous
 Practice tasks like HCF, LCM, Stars etc.
 
 Take a break from 3rd June to After Eid(24th June Probably).
-
 Stuck afte days 17, 18
 
 Projects:
